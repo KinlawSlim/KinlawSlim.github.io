@@ -1,4 +1,6 @@
 # NBA 2k24
+![2k24](https://user-images.githubusercontent.com/113934719/206002719-a9b5e881-bade-4eb1-a8ee-72ea2c601f48.jpg)
+
 Introducing NBA 2K24, the latest installment of the award-winning basketball game. From creating your own MyPlayer to building the best team in MyTeam mode, and even playing head-to-head with AI or your friends, NBA 2K24 is the ultimate basketball experience. With its groundbreaking visuals, realistic physics and innovative controls, NBA 2K24 brings the game to life like never before. Unlock your inner superstar and take your game to the next level with NBA 2K24. With its mission statement to enable gamers to build, connect, escape and dream big, NBA 2K24 is the best basketball game out there!
 
 # My Career
@@ -12,4 +14,4 @@ NBA 2K24 My Team is a revolutionary new game mode that lets you build the ultima
 # 2k Theater and Events 
 
 NBA 2K24 Theater and Events is the ultimate way to experience the game’s best moments. With the Theater mode, you can relive some of the greatest plays ever made, and with Events, you can compete against other players in challenges, tournaments, and more. It’s the perfect way to show off your skills and prove you’re the best. Whether it’s playing against the best players in the world or just competing against your friends, NBA 2K24 Theater and Events gives you the chance to experience the game like never before.
-![2k24](https://user-images.githubusercontent.com/113934719/206002292-9f603902-f8ce-4187-9ac4-29cd4a3139f3.jpg)
+
