@@ -1,5 +1,5 @@
 # NBA 2k24
-![2k24](https://user-images.githubusercontent.com/113934719/206002719-a9b5e881-bade-4eb1-a8ee-72ea2c601f48.jpg)
+<img src="2k24.jpg" width="400">
 
 Introducing NBA 2K24, the latest installment of the award-winning basketball game. From creating your own MyPlayer to building the best team in MyTeam mode, and even playing head-to-head with AI or your friends, NBA 2K24 is the ultimate basketball experience. With its groundbreaking visuals, realistic physics and innovative controls, NBA 2K24 brings the game to life like never before. Unlock your inner superstar and take your game to the next level with NBA 2K24. With its mission statement to enable gamers to build, connect, escape and dream big, NBA 2K24 is the best basketball game out there!
 
