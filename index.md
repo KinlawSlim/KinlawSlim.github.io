@@ -12,3 +12,4 @@ NBA 2K24 My Team is a revolutionary new game mode that lets you build the ultima
 # 2k Theater and Events 
 
 NBA 2K24 Theater and Events is the ultimate way to experience the game’s best moments. With the Theater mode, you can relive some of the greatest plays ever made, and with Events, you can compete against other players in challenges, tournaments, and more. It’s the perfect way to show off your skills and prove you’re the best. Whether it’s playing against the best players in the world or just competing against your friends, NBA 2K24 Theater and Events gives you the chance to experience the game like never before.
+![2k24](https://user-images.githubusercontent.com/113934719/206002292-9f603902-f8ce-4187-9ac4-29cd4a3139f3.jpg)
