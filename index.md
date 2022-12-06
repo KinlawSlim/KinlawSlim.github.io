@@ -1,48 +1,35 @@
 # Title
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>NBA 2k24</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-<div class="header">
-<h1>NBA 2k24</h1>
-</div>
-<div class="navbar">
-<a href="index.php">Home</a>
-<a href="about.php">About</a>
-<a href="contact.php">Contact</a>
-<a href="login.php">Login</a>
-<a href="register.php">Register</a>
-</div>
-<div class="row">
-<div class="side">
-<h2>About</h2>
-<h5>Photo of me:</h5>
-<div class="fakeimg" style="height:200px;">Image</div>
-<p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-<h3>More Text</h3>
-<p>Lorem ipsum dolor sit ame.</p>
-<div class="fakeimg" style="height:60px;">Image</div><br>
-<div class="fakeimg" style="height:60px;">Image</div><br>
-<div class="fakeimg" style="height:60px;">Image</div>
-</div>
-<div class="main">
-<h2>NBA 2k24</h2>
-<h5>Title description, Dec 7, 2017</h5>
-<div class="fakeimg" style="height:200px;">Image</div>
-<p>Some text..</p>
-<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-<br>
-<h2>TITLE HEADING</h2>
-<h5>Title description, Sep 2, 2017</h5>
-<div class="fakeimg" style="height:200px;">Image</div>
-<p>Some text..</p>
-<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-</div>
-</div>
-<div class="footer">
-<h2>Footer</h2>
-</div>
-</body>
-</html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NBA 2k24</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/nba.css">
+    <link rel="stylesheet" href="css/nba2k24.css">
+    <link rel="stylesheet" href="css/nba2k24_2.css">
+    <link rel="stylesheet" href="css/nba2k24_3.css">
+    <link rel="stylesheet" href="css/nba2k24_4.css">
+    <link rel="stylesheet" href="css/nba2k24_5.css">
+    <link rel="stylesheet" href="css/nba2k24_6.css">
+    <link rel="stylesheet" href="css/nba2k24_7.css">
+    <link rel="stylesheet" href="css/nba2k24_8.css">
+    <link rel="stylesheet" href="css/nba2k24_9.css">
+    <link rel="stylesheet" href="css/nba2k24_10.css">
+    <link rel="stylesheet" href="css/nba2k24_11.css">
+    <link rel="stylesheet" href="css/nba2k24_12.css">
+    <link rel="stylesheet" href="css/nba2k24_13.css">
+    <link rel="stylesheet" href="css/nba2k24_14.css">
+    <link rel="stylesheet" href="css/nba2k24_15.css">
+    <link rel="stylesheet" href="css/nba2k24_16.css">
+    <link rel="stylesheet" href="css/nba2k24_17.css">
+    <link rel="stylesheet" href="css/nba2k24_18.css">
+    <link rel="stylesheet" href="css/nba2k24_19.css">
+    <link rel="stylesheet" href="css/nba2k24_20.css">
+    <link rel="stylesheet" href="css/nba2k24_21.css">
+    <link rel="stylesheet" href="css/nba2k24_22.css">
+    <link rel="stylesheet" href="css/nba2k24_23.css">
+    <link rel="stylesheet" href="
