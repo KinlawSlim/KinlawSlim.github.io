@@ -1,3 +1,5 @@
+<img src="about.jpg" width="400">
+
 Hello fellow gamers! Im Teyon "Kinlaw Slim" Smith and I'm an avid NBA2K fan and has been playing the game since its inception.
 I love the game for its realism, competitive nature, and the ability to create my own player and team. 
 I've created a website dedicated to the upcoming installment of NBA2K, which he hopes will help others learn more about the game and get excited for its release. 
