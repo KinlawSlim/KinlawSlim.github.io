@@ -1,2 +1,2 @@
 # KinlawSlim.github.io
-website
+Upcoming games and News for NBA2K
