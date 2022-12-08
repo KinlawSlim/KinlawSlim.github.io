@@ -8,3 +8,5 @@ This website provides news, tips, and strategies to help players get the most ou
 I also provides reviews of the latest releases and upcoming features. 
 I'm passionate about NBA2K and hopes that this website will help others enjoy the game as much as I do.
 I want to Thank Mr. Norris in CTI-110 for pushing me to understand programming and coding to be able to make this website.
+
+<a href="index.html">Home</a> | <a href="products.html">Products</a> | <a href="about.html">About</a>
